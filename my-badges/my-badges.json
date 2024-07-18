@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Sepinood-Karimi/ReduxCounter1/commit/a0f2cdc0125731a37799f959479aad629c5e0d05\"><strong>a</strong>0f2cdc0125731a37799f959479aad629c5e0d05</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Sepinood-Karimi/ingredients-list/commit/ab43b00a4bced349f2fdb4e02594d24e36128325\"><strong>ab</strong>43b00a4bced349f2fdb4e02594d24e36128325</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/d856959419f9140d877337df1460359ee6f1d920\">d856959</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 128 times)\n2. and (used 92 times)\n3. fix (used 55 times)\n4. styles (used 47 times)\n5. to (used 35 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/595b0a67e60301d9d4eb6a2b9e7cc6a5dadfc004\">595b0a6</a>: fix : edit styles of detail page and navigate to edit page correctly\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/e4356f99330978d3e85f1f284480eeac2bc276fa\">e4356f9</a>: fix: change the styles of event detail page",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/ingredients-list/commit/9c43ed89a42c9093209b04863868c3a29578870d\">9c43ed8</a>: fix: replace useState for loading and error state with useReducer\n- <a href=\"https://github.com/Sepinood-Karimi/ingredients-list/commit/77ee283f3839b9d5b7bb92beb58158ae7fdd3e1c\">77ee283</a>: fix: rename the state name for better understanding\n- <a href=\"https://github.com/Sepinood-Karimi/ingredients-list/commit/54cc2b12b83db740716900fdf9d78327fdf482ef\">54cc2b1</a>: fix: replace useState for ingredients to useReducer",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/a051dccaf4a186bcee6b7f7a85b15f17be4aa741\">a051dcc</a>: fix getting faculties and teacher details\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/27d59c7ca1df7162350f731e7883ecc5a167d353\">27d59c7</a>: fix navigation\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/62abdf72d47bf25da15868cd6b98c4ead2c7b29b\">62abdf7</a>: fix login loading issues\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/4b8097f7ec2cb2fb617f4735839ea8d9465f2af8\">4b8097f</a>: fix comments issues",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/e96876feba9e5902cfdf40a815ecad412156f624\">e96876f</a>: fix navigation to teachers page\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/c04e209002f778b826072a8b07b47dbdf8ed0987\">c04e209</a>: fix contact us success and error messages\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/3a8e68ec6013a374c0bcac9190621a6f67f1705e\">3a8e68e</a>: fix show all teachers\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/905e5bb70acd161835095a332fe7e57647b21290\">905e5bb</a>: fix button action console error\n- <a href=\"https://github.com/Sepinood-Karimi/Madani-Ostad/commit/4c3440429a8e769f786852c3e9184e926f90c36a\">4c34404</a>: fix main faculties button",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/ingredients-list/commit/ab43b00a4bced349f2fdb4e02594d24e36128325\">ab43b00</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/d9ab7fde2a70245e4f837ec201867e56ff7f1bab\">d9ab7fd</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/d7138557bc78eb33d0617133ba7dd9381218633e\">d713855</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/6e2b9bea25d8f09029849fa7418339928ac69567\">6e2b9be</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Events/commit/60c6b42ce4a43aa0cae0d7849a3ae0a6676e69c3\">60c6b42</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Counter-Redux/commit/3dc4eccfb1945d3539c24a25050abc80c92af1ca\">3dc4ecc</a>\n- <a href=\"https://github.com/Sepinood-Karimi/reduxBookShop/commit/ca8358eab977112cec8162be3f3b5f74306e2b1d\">ca8358e</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b522b325b8a059711988d576597a4cc388082988\">b522b32</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b78f41547fdab8359255675523cb5a23bf8a0eb4\">b78f415</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/359ba35ba41b47be43ced4a1db01887766d6f105\">359ba35</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/91946514c18a89cd759c15770a0fbd81d2a3d965\">9194651</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/b648f23385c2e76e8785b124a2fcb840d1118220\">b648f23</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/42eb3cdcbb51c442df79434922c85ba691dfb413\">42eb3cd</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/Counter-Redux/commit/52127af81615c2a299b69fdd8f6d6c4790c94942\">52127af</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Counter-Redux/commit/be37ac72d1a481c31554c912bfbad551c07f7ce3\">be37ac7</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Counter-Redux/commit/795d2423ccc983668480addb252326db0fd293c1\">795d242</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Todos/commit/d96ce94bc83033a616c241931dde194c1039d841\">d96ce94</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Todos/commit/b4d37172491199787ac484392299adcf5c6e4210\">b4d3717</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Todos/commit/32247c43c5d42b9efd6f077ec7b6940ea9e4017d\">32247c4</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
