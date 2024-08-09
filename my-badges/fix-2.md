@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sepinood-Karimi/events-react/commit/595b0a67e60301d9d4eb6a2b9e7cc6a5dadfc004">595b0a6</a>: fix : edit styles of detail page and navigate to edit page correctly
-- <a href="https://github.com/Sepinood-Karimi/events-react/commit/e4356f99330978d3e85f1f284480eeac2bc276fa">e4356f9</a>: fix: change the styles of event detail page
+- <a href="https://github.com/Sepinood-Karimi/algorithm-exercises/commit/a136f796140ac847c7c9c31dd6054691a903c0cb">a136f79</a>: fix: add null and undefined edge case
+- <a href="https://github.com/Sepinood-Karimi/algorithm-exercises/commit/e7ce60c4e6d690927320cc680a9ca0ac59affd24">e7ce60c</a>: fix: areThereDuplicates between string and number
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

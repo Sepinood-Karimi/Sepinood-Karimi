@@ -24,14 +24,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 133 times)\n2. and (used 93 times)\n3. fix (used 56 times)\n4. styles (used 47 times)\n5. to (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 134 times)\n2. and (used 95 times)\n3. fix (used 56 times)\n4. styles (used 47 times)\n5. to (used 39 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/595b0a67e60301d9d4eb6a2b9e7cc6a5dadfc004\">595b0a6</a>: fix : edit styles of detail page and navigate to edit page correctly\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/e4356f99330978d3e85f1f284480eeac2bc276fa\">e4356f9</a>: fix: change the styles of event detail page",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/algorithm-exercises/commit/a136f796140ac847c7c9c31dd6054691a903c0cb\">a136f79</a>: fix: add null and undefined edge case\n- <a href=\"https://github.com/Sepinood-Karimi/algorithm-exercises/commit/e7ce60c4e6d690927320cc680a9ca0ac59affd24\">e7ce60c</a>: fix: areThereDuplicates between string and number",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b522b325b8a059711988d576597a4cc388082988\">b522b32</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b78f41547fdab8359255675523cb5a23bf8a0eb4\">b78f415</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/359ba35ba41b47be43ced4a1db01887766d6f105\">359ba35</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/91946514c18a89cd759c15770a0fbd81d2a3d965\">9194651</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/b648f23385c2e76e8785b124a2fcb840d1118220\">b648f23</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/42eb3cdcbb51c442df79434922c85ba691dfb413\">42eb3cd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sepinood-Karimi/algorithm-exercises/commit/a136f796140ac847c7c9c31dd6054691a903c0cb\">a136f79</a>\n- <a href=\"https://github.com/Sepinood-Karimi/algorithm-exercises/commit/e7ce60c4e6d690927320cc680a9ca0ac59affd24\">e7ce60c</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b522b325b8a059711988d576597a4cc388082988\">b522b32</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/b78f41547fdab8359255675523cb5a23bf8a0eb4\">b78f415</a>\n- <a href=\"https://github.com/Sepinood-Karimi/Sepinood-Karimi/commit/359ba35ba41b47be43ced4a1db01887766d6f105\">359ba35</a>\n- <a href=\"https://github.com/Sepinood-Karimi/events-react/commit/91946514c18a89cd759c15770a0fbd81d2a3d965\">9194651</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
